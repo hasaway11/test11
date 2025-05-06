@@ -1,6 +1,7 @@
 package com.example.demo;
 
 public class Sample {
-  String name;
+  String 이름;
   String vendor;
+  int price;
 }
